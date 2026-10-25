@@ -1,1 +1,1 @@
-# analisis-de-se-ales-fourier
+ Simulación y análisis de señales con la transformada de Fourier
